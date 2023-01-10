@@ -1,0 +1,3 @@
+krish|39928393|Delhi|Mumbai|1-1-2018|Luxury
+vamsi|39928393|Delhi|Mumbai|1-1-2018|buissness
+vamsi|39928393|Delhi|Lucknow|1-1-2018|buissness
